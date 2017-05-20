@@ -1,3 +1,5 @@
-name: Murshid Hassen
-url: http://murshidhassen.com
-markdown: kramdown
+title: Murshid Hassen
+description: Modified Theme for Personal Use
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
