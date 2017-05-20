@@ -3,3 +3,6 @@ description: Modified Theme for Personal Use
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+name: Murshid Hassen
+url: https://murshidmac.github.io/murshidhassen/
+markdown: kramdown
