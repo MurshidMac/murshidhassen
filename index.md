@@ -2,40 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)About Me
 
-[Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+## [](#header-2)Life taught Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
+> The only way that we can live, is if we grow. The only way that we can grow is if we change. 
+> The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can 
+> become exposed is if we throw ourselves out into the open. Do it. Throw yourself.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> C. JoyBell C.
 
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### [](#header-3) We finally met
+  Greetings, I am murshid hassen
 
 #### [](#header-4)Header 4
 
@@ -94,7 +73,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://www.dropbox.com/home/shared%20folder?preview=pexels-photo-112642.jpeg)
 
 ### Large image
 
@@ -117,6 +96,8 @@ end
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+References available upon request. Email me at [murshid.hassen@gmail.com](https://mailto:murshidhassen@gmail.com)
+
 
 ```
 The final element.
